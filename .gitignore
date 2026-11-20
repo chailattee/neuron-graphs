@@ -1,4 +1,4 @@
-runs/
-artifacts/
-__pycache__/
 .venv/
+__pycache__/
+artifacts/
+runs/
